@@ -23,6 +23,7 @@ nav ul li {
   display: inline-block;
   line-height: 70px;
   padding: 0px 34px;
+  color: #999;
 }
 main {
   width: 960px;
