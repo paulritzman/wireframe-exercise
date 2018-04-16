@@ -4,6 +4,7 @@ body {
 }
 header {
   height: 100%;
+  margin-bottom: 30px;
 }
 nav {
   width: 100%;
@@ -24,4 +25,15 @@ nav ul li {
 }
 main {
   width: 960px;
+}
+main ul {
+  padding-left: 0px;
+  font-size: 0px;
+}
+main ul li {
+  display: inline-block;
+  margin: 30px 30px 30px 0px;
+}
+main ul li:last-child {
+  margin-right: 0px;
 }
