@@ -1,4 +1,4 @@
-# cookie-stand
+# wireframe-exercise
 
 This is a project to build a professional-style wireframe document, to a provided spec, using just HTML and CSS.
 
